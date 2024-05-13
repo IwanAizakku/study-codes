@@ -1,2 +1,2 @@
 # study-codes
-A place where I place codes that I've made during my study
+Codings of assignments/projects that I've made during my study
